@@ -6,6 +6,9 @@ Este es el repositorio de trabajos prácticos oficial de la materia.
 2. [Señales y Sistemas](https://github.com/ezequielbeccaria/MATSUP2018/blob/master/03-TP_Senales_y_Sistemas.ipynb).
 3. [Señales y Sistemas 2](https://github.com/ezequielbeccaria/MATSUP2018/blob/master/04-TP_Senales_y_Sistemas2.ipynb).
 4. [Transformada de Fourier](https://github.com/ezequielbeccaria/MATSUP2018/blob/master/05-TP_Transformada_Fourier.ipynb).
+5. [Integración Numerica](https://github.com/ezequielbeccaria/MATSUP2018/blob/master/06-TP_Integracion_Numerica.ipynb).
+6. [Ecuaciones Diferenciales Ordinarias](https://github.com/ezequielbeccaria/MATSUP2018/blob/master/07-TP_Ecuaciones_Diferenciales_Ordinarias-Solucion_Numerica.ipynb).
+7. [Transformada de Laplace](https://github.com/ezequielbeccaria/MATSUP2018/blob/master/08-TP_Tranformada_de_Laplace.ipynb).
 
 ## Material Adicional
 * [Introducción a Python](https://github.com/ezequielbeccaria/MATSUP2018/blob/master/01-Intro_Python.ipynb).
