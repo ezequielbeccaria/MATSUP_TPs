@@ -9,6 +9,8 @@ Este es el repositorio de trabajos prácticos oficial de la materia.
 5. [Integración Numérica](https://github.com/ezequielbeccaria/MATSUP2018/blob/master/06-TP_Integracion_Numerica.ipynb).
 6. [Ecuaciones Diferenciales Ordinarias](https://github.com/ezequielbeccaria/MATSUP2018/blob/master/07-TP_Ecuaciones_Diferenciales_Ordinarias-Solucion_Numerica.ipynb).
 7. [Transformada de Laplace](https://github.com/ezequielbeccaria/MATSUP2018/blob/master/08-TP_Tranformada_de_Laplace.ipynb).
+8. [Transformada Z](https://github.com/ezequielbeccaria/MATSUP2018/blob/master/09-TP_Transformada_Z.ipynb).
+9. [Aproximación de raices en ecuaciones no lineales](https://github.com/ezequielbeccaria/MATSUP2018/blob/master/10-TP_Aprox_raices_ecuaciones_no_lineales.ipynb).
 
 ## Material Adicional
 * [Introducción a Python](https://github.com/ezequielbeccaria/MATSUP2018/blob/master/01-Intro_Python.ipynb).
