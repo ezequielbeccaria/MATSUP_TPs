@@ -11,6 +11,8 @@ Este es el repositorio de trabajos prácticos oficial de la materia.
 7. [Transformada de Laplace](https://github.com/ezequielbeccaria/MATSUP2018/blob/master/08-TP_Tranformada_de_Laplace.ipynb).
 8. [Transformada Z](https://github.com/ezequielbeccaria/MATSUP2018/blob/master/09-TP_Transformada_Z.ipynb).
 9. [Aproximación de raices en ecuaciones no lineales](https://github.com/ezequielbeccaria/MATSUP2018/blob/master/10-TP_Aprox_raices_ecuaciones_no_lineales.ipynb).
+10. [Clasificación](https://github.com/ezequielbeccaria/MATSUP2018/blob/master/11-TP_Clasificacion.ipynb).
+11. [Ajuste de Curvas](https://github.com/ezequielbeccaria/MATSUP2018/blob/master/12-TP_Ajuste_de_Curvas.ipynb).
 
 ## Material Adicional
 * [Introducción a Python](https://github.com/ezequielbeccaria/MATSUP2018/blob/master/01-Intro_Python.ipynb).
